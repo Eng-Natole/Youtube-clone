@@ -1,9 +1,10 @@
 .play-video {
   flex-basis: 69%;
 }
-.play-video video {
+.play-video iframe {
   width: 100%;
   border-radius: 8px;
+  height: 37vw;
 }
 .play-video h3 {
   margin-top: 10px;
